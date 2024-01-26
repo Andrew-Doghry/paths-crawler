@@ -4,11 +4,11 @@
 </p>
 <h1>start</h1>
 <ol>
-  <li>clone the repo first</li>
-  <li>open the terminal in the folder then type <div style="color:blue">npm install </div></li>
+  <li>clone the repo</li>
+  <li>open the terminal in the folder then type <code style="color:blue">npm install </code></li>
   <li>finally the project is ready for use</li>
 </ol>
 
-<div style="color:blue">example for usage </div>
+<code style="color:blue">example for usage </div>
 ➡️
 <code>node main.js https://www.google.com</code>
