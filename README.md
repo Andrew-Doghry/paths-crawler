@@ -1,6 +1,6 @@
 <h1 style="color:red;">nodejs based crawler </h1>
 <p style="color:green;"> 
-  you can use this tool by passing the target page to as a terminal argument 
+  you can use this tool by passing the target page to it as a terminal argument 
 </p>
 <h1>start</h1>
 <ol>
