@@ -9,6 +9,6 @@
   <li>finally the project is ready for use</li>
 </ol>
 
-<div style="color:blue">example for usage </div>
+<div style="color:blue">example</div>
 ➡️
 <code>node main.js https://www.google.com</code>
